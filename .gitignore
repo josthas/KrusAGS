@@ -1,47 +1,37 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+.pc
+*.ncb
+*.suo
+*.vcproj.*.user
+Engine/acwin___Win32_DebugWorking
+Editor/AGS.Controls/bin
+Editor/AGS.Controls/obj
+Editor/AGS.CScript.Compiler/bin
+Editor/AGS.CScript.Compiler/obj
+Editor/AGS.Editor/bin
+Editor/AGS.Editor/obj
+Editor/AGS.Native/Debug
+Editor/AGS.Types/bin
+Editor/AGS.Types/obj
+Editor/UpdateCPPVersion/bin
+Editor/UpdateCPPVersion/obj
+Solutions/.build/
+Solutions/.lib/
+Solutions/Common.Lib/Debug/
+Solutions/Engine.App/Debug/
 
-# Folder config file
-Desktop.ini
-
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
-
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
-
-# Windows shortcuts
-*.lnk
-
-# =========================
-# Operating System Files
-# =========================
-
-# OSX
-# =========================
-
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+Solutions/Common.Shared.Lib/Debug
+Solutions/Common.Shared.Lib/Release
+Solutions/Engine.App/Release
+Editor/AGS.Native/Release
+Solutions/Engine.Shared.Lib/Debug
+Solutions/Engine.Shared.Lib/Release
+Solutions/Compiler.Lib/Debug
+Solutions/Compiler.Lib/Release
+Solutions/Common.Lib/Release
+*.csproj.user
+*.idc
+Engine/resource/version.aps
+*.o
+*.d
+common.a
+ags
